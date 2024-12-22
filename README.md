@@ -75,7 +75,7 @@ Once you run the tool, you will be presented with a menu to choose between:
 To keep Doble Short up to date, you can always pull the latest changes from the repository:
 
 ```bash
-git pull origin master
+git pull origin main
 ```
 
 To upgrade dependencies, run the following command:
