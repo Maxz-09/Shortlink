@@ -32,7 +32,7 @@ Make sure you have the following installed on your system:
 
 1. Clone the repository or download the tool:
     ```bash
-    git clone https://github.com/wanzxploit/Doble-Short.git
+    git clone https://github.com/Maxz-09/Shortlink.git
     cd Doble-Short
     ```
 
